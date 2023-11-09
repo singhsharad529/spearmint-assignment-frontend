@@ -1,0 +1,22 @@
+ select{
+    padding: 10px;
+    font-weight: bold;
+ }
+ select:hover {
+     border: 1px solid #555;
+     /* Change the border color on hover */
+     background-color: #f0f0f0;
+     /* Change the background color on hover */
+ }
+ select option{
+    padding: 5px;
+    font-weight: bold;
+ }
+
+ option:hover{
+    color: salmon;
+ }
+
+ .price{
+    color: green;
+ }
